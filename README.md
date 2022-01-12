@@ -27,3 +27,11 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Wikipedia:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
+## Solana
+#### Code: SOL
+#### Languages: Go, Solidity, Typescript
+#### Website: [Ethereum Official](https://solana.com/)
+#### Repository: [Github](https://github.com/solana-labs)
+#### Wikipedia:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
+---
