@@ -1,7 +1,7 @@
 # Cryptocurrency Languages
 List of Programming Language used by Cryptocurrency for Developing Core Network, Smart Contract, or Applications.
 
-Information about programming language used by Cryptocurrencies referred from [Coinmonks Post](https://medium.com/coinmonks/list-of-programming-languages-and-frameworks-used-in-41-crypto-projects-2b7223099c57#48e5) & official repositories of the Cryptocurrency source code.
+Information about programming language used by Cryptocurrencies referred from [Coinmonks post](https://medium.com/coinmonks/list-of-programming-languages-and-frameworks-used-in-41-crypto-projects-2b7223099c57) & official repositories of the Cryptocurrency source code.
 
 ## Bitcoin
 #### Code: BTC
@@ -18,4 +18,12 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repository: [Github](https://github.com/ethereum)
 #### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
+---
+## Binance Coin
+#### Code: BNB
+#### Languages: Go, Solidity, Typescript
+#### Website: [Ethereum Official](https://www.binance.org/en)
+#### Repository: [Github](https://github.com/binance-chain)
+#### Wikipedia:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
+#### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
