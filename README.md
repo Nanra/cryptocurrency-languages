@@ -14,6 +14,6 @@ List of Programming Language used by Cryptocurrency Framework
 #### Languages: C++, Solidity, Go, Javascript
 #### Website: [Ethereum Official](https://ethereum.org/en/)
 #### Repository: [Github](https://github.com/ethereum)
-#### Wikipedia:  [What is Ethereum ?](https://github.com/ethereum)
+#### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
 ---
