@@ -10,6 +10,11 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repository: [Github](https://github.com/bitcoin)
 #### Wikipedia: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bitcoin/)
+## Logo
+<p>
+  <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="175" title="Bitcoin Logo" alt="Bitcoin Logo">
+</p>
+
 ---
 ## Ethereum
 #### Code: ETH
@@ -18,6 +23,8 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repository: [Github](https://github.com/ethereum)
 #### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
+## Logo
+![Alt Ethereum Logo](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp)
 ---
 ## Binance Coin
 #### Code: BNB
@@ -42,7 +49,6 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repository: [Github](https://github.com/tronprotocol/java-tron)
 #### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
----
 ---
 ## Cardano
 #### Code: ADA
