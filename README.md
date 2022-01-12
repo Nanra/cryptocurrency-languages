@@ -43,3 +43,12 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
 ---
+---
+## Cardano
+#### Code: ADA
+#### Languages: Haskell, Javascript, Scala
+#### Website: [Cardano Official](https://cardano.org/)
+#### Repository: [Cardano Updates](https://cardanoupdates.com/)
+#### Wikipedia:  [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
+---
