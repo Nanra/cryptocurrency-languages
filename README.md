@@ -4,27 +4,29 @@ List of Programming Language used by Cryptocurrency for Developing Core Network,
 Information about programming language used by Cryptocurrencies referred from [Coinmonks post](https://medium.com/coinmonks/list-of-programming-languages-and-frameworks-used-in-41-crypto-projects-2b7223099c57) & official repositories of the Cryptocurrency source code.
 
 ## Bitcoin
+<p>
+  <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="175" title="Bitcoin Logo" alt="Bitcoin Logo">
+</p>
+
 #### Code: BTC
 #### Languges: C, C++, Python
 #### Website: [Bitcoin Official](https://bitcoin.org/)
 #### Repository: [Github](https://github.com/bitcoin)
 #### Wikipedia: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bitcoin/)
-## Logo
-<p>
-  <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="175" title="Bitcoin Logo" alt="Bitcoin Logo">
-</p>
 
 ---
 ## Ethereum
+<p>
+  <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" width="50" title="Ethereum Logo" alt="Ethereum Logo">
+</p>
+
 #### Code: ETH
 #### Languages: C++, Solidity, Go, Javascript
 #### Website: [Ethereum Official](https://ethereum.org/en/)
 #### Repository: [Github](https://github.com/ethereum)
 #### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
-## Logo
-![Alt Ethereum Logo](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp)
 ---
 ## Binance Coin
 #### Code: BNB
