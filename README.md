@@ -30,7 +30,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 ---
 ## Binance Coin
 <p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="57" title="Binance Logo" alt="Binance Logo">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="60" title="Binance Logo" alt="Binance Logo">
 </p>
 
 #### Code: BNB
@@ -41,6 +41,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
 ## Solana
+<p>
+  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="175" title="Solana Logo" alt="Solana Logo">
+</p>
+
 #### Code: SOL
 #### Languages: Rust, Typescript
 #### Website: [Solana Official](https://solana.com/)
