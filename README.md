@@ -29,6 +29,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
 ---
 ## Binance Coin
+<p>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="57" title="Binance Logo" alt="Binance Logo">
+</p>
+
 #### Code: BNB
 #### Languages: Go, Solidity, Typescript
 #### Website: [Binance Official](https://www.binance.org/en)
