@@ -1,5 +1,5 @@
-# Cryptocurrency Framework Languages
-List of Programming Language used by Cryptocurrency Framework
+# Cryptocurrency Languages
+List of Programming Language used by Cryptocurrency for Development Core and Smart Contract
 
 ## Bitcoin
 #### Code: BTC
