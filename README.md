@@ -66,7 +66,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 ---
 ## Cardano
 <p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="70" title="Cardano Logo" alt="Cardano Logo">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="80" title="Cardano Logo" alt="Cardano Logo">
 </p>
 
 #### Code: ADA
@@ -75,4 +75,4 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repository: [Cardano Updates](https://cardanoupdates.com/)
 #### Wikipedia:  [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
----s
+---
