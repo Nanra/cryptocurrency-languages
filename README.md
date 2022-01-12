@@ -2,13 +2,14 @@
 List of Programming Language used by Cryptocurrency Framework
 
 ## Bitcoin
-### Website: https://bitcoin.org/
-### Languge(s): C, C++, Python
-### Repository: https://github.com/bitcoin
-### Wikipedia: https://en.wikipedia.org/wiki/Bitcoin
+#### Languges: C, C++, Python
+#### Website: [Bitcoin Official](https://bitcoin.org/)
+#### Repository: [Github](https://github.com/bitcoin)
+#### Wikipedia: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
+
 
 ## Ethereum
-### Website: https://ethereum.org/en/
-### Language(s): C++, Solidity, Go, Javascript
-### Repository: https://github.com/ethereum
-### Wikipedia: https://github.com/ethereum
+#### Languages: C++, Solidity, Go, Javascript
+#### Website : [Ethereum Official](https://ethereum.org/en/)
+#### Repository: [Github](https://github.com/ethereum)
+#### Wikipedia:  [What is Ethereum ?](https://github.com/ethereum)
