@@ -42,7 +42,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 ---
 ## Solana
 <p>
-  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="175" title="Solana Logo" alt="Solana Logo">
+  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
 </p>
 
 #### Code: SOL
@@ -53,6 +53,11 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
 ---
 ## TRON
+
+<p>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" width="60" title="Tron Logo" alt="Tron Logo">
+</p>
+
 #### Code: TRX
 #### Language: Java
 #### Website: [TRON Official](https://tron.network/)
