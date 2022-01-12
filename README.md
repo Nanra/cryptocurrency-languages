@@ -1,5 +1,5 @@
 # Cryptocurrency Languages
-List of Programming Language used by Cryptocurrency for Development Core and Smart Contract
+List of Programming Language used by Cryptocurrency for Developing Core Network and Smart Contract
 
 ## Bitcoin
 #### Code: BTC
