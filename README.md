@@ -12,9 +12,9 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Languges: C, C++, Python
 #### Website: [Bitcoin Official](https://bitcoin.org/)
 #### Repository: [Github](https://github.com/bitcoin)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/bitcoin/bitcoin?style=social)
 #### Wikipedia: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bitcoin/)
-
 ---
 ## Ethereum
 <p>
@@ -22,9 +22,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 </p>
 
 #### Code: ETH
-#### Languages: C++, Solidity, Go, Javascript
+#### Languages: Go, C++, Solidity, Javascript
 #### Website: [Ethereum Official](https://ethereum.org/en/)
 #### Repository: [Github](https://github.com/ethereum)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ethereum/go-ethereum?style=social)
 #### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
 ---
@@ -37,6 +38,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Languages: Go, Solidity, Typescript
 #### Website: [Binance Official](https://www.binance.org/en)
 #### Repository: [Github](https://github.com/binance-chain)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/binance-chain/bsc?style=social)
 #### Wikipedia:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
