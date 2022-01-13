@@ -9,7 +9,8 @@ Information about programming language used by Cryptocurrencies referred from [C
 </p>
 
 #### Code: BTC
-#### Languges: C, C++, Python
+#### Languges: C++, C, Python
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/bitcoin/bitcoin?style=social)
 #### Website: [Bitcoin Official](https://bitcoin.org/)
 #### Repository: [Github](https://github.com/bitcoin)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/bitcoin/bitcoin?style=social)
@@ -23,6 +24,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 
 #### Code: ETH
 #### Languages: Go, C++, Solidity, Javascript
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ethereum/go-ethereum?style=social)
 #### Website: [Ethereum Official](https://ethereum.org/en/)
 #### Repository: [Github](https://github.com/ethereum)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ethereum/go-ethereum?style=social)
