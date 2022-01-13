@@ -74,10 +74,10 @@ Code: TRX
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="80" title="Cardano Logo" alt="Cardano Logo">
 </p>
 
-Code: ADA
-<br/> <h4> Languages: Haskell, Javascript, Scala </h4>
-<br/> <h4> Website: [Cardano Official](https://cardano.org/) </h4>
-<br/> Repository: [Cardano Updates](https://cardanoupdates.com/)
-<br/>  Wikipedia:  [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
-<br/> Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
+<h4> Code: ADA </h4>
+<h4> Languages: Haskell, Javascript, Scala </h4>
+<h4> Website: [Cardano Official](https://cardano.org/) </h4>
+<h4> Repository: [Cardano Updates](https://cardanoupdates.com/) </h4>
+<h4> Wikipedia:  [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)) </h4>
+<h4> Price: [Check Now](https://coinmarketcap.com/currencies/cardano/) </h4>
 ---
