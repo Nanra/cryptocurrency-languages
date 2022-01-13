@@ -76,7 +76,7 @@ Code: TRX
 
 Code: ADA
 <br/> <h4> Languages: Haskell, Javascript, Scala </h4>
-<br/> Website: [Cardano Official](https://cardano.org/)
+<br/> <h4> Website: [Cardano Official](https://cardano.org/) </h4>
 <br/> Repository: [Cardano Updates](https://cardanoupdates.com/)
 <br/>  Wikipedia:  [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 <br/> Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
