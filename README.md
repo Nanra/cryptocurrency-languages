@@ -52,8 +52,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 
 #### Code: SOL
 #### Languages: Rust, Typescript
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/solana-labs/solana?style=social)
 #### Website: [Solana Official](https://solana.com/)
 #### Repository: [Github](https://github.com/solana-labs)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/solana?style=social)
 #### Wikipedia:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
 ---
@@ -64,8 +66,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 
 #### Code: TRX
 #### Language: Java
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/tronprotocol/java-tron?style=social)
 #### Website: [TRON Official](https://tron.network/)
 #### Repository: [Github](https://github.com/tronprotocol/java-tron)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/tronprotocol/java-tron?style=social)
 #### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
 ---
@@ -76,8 +80,10 @@ Information about programming language used by Cryptocurrencies referred from [C
 
 #### Code: ADA
 #### Languages: Haskell, Javascript, Scala
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/input-output-hk/cardano-sl?style=social)
 #### Website: [Cardano Official](https://cardano.org/)
 #### Repository: [Cardano Updates](https://cardanoupdates.com/)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/cardano-sl?style=social)
 #### Wikipedia: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
 ---
