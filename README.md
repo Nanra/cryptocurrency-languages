@@ -87,3 +87,17 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Wikipedia: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
 ---
+## Ripple
+<p>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="75" title="Ripple Logo" alt="Ripple Logo">
+</p>
+
+#### Code: XRP
+#### Languages: C++, C, Javascript
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ripple/rippled?style=social)
+#### Website: [XRP Ledger Official](https://xrpl.org/)
+#### Repository: [Github](https://github.com/ripple/rippled)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ripple/rippled?style=social)
+#### Wikipedia: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
+---
