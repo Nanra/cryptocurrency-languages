@@ -109,7 +109,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Code: DOT
 #### Language: Rust
 #### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/paritytech/polkadot?style=social)
-#### Website: [Polkdaot Network Official](https://polkadot.network/)
+#### Website: [Polkadot Network Official](https://polkadot.network/)
 #### Repository: [Github](https://github.com/paritytech/polkadot)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/paritytech/polkadot?style=social)
 #### Wikipedia: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
