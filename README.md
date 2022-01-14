@@ -45,20 +45,6 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Wikipedia:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
-## Solana
-<p>
-  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
-</p>
-
-#### Code: SOL
-#### Languages: Rust, Typescript
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/solana-labs/solana?style=social)
-#### Website: [Solana Official](https://solana.com/)
-#### Repository: [Github](https://github.com/solana-labs)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/solana?style=social)
-#### Wikipedia:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
----
 ## TRON
 <p>
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" width="63" title="Tron Logo" alt="Tron Logo">
@@ -72,6 +58,20 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/tronprotocol/java-tron?style=social)
 #### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
+---
+## Solana
+<p>
+  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
+</p>
+
+#### Code: SOL
+#### Languages: Rust, Typescript
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/solana-labs/solana?style=social)
+#### Website: [Solana Official](https://solana.com/)
+#### Repository: [Github](https://github.com/solana-labs)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/solana?style=social)
+#### Wikipedia:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
 ---
 ## Cardano
 <p>
@@ -114,4 +114,18 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/paritytech/polkadot?style=social)
 #### Wikipedia: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/polkadot-new/)
+---
+## Polygon
+<p>
+  <img src="https://polygon.technology/wp-content/uploads/2021/12/Polygon-Primary-Color-Dark.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
+</p>
+
+#### Code: MATIC
+#### Languages: Javascript, Solidity
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/maticnetwork/contracts?style=social)
+#### Website: [Polygon Technolgy Official](https://polygon.technology/)
+#### Repository: [Github](https://github.com/maticnetwork/contracts)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/maticnetwork/contracts?style=social)
+#### Wikipedia:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
+#### Price: [Check Now](https://coinmarketcap.com/currencies/polygon/)
 ---
