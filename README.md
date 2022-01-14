@@ -105,7 +105,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 ---
 ## Dogecoin
 <p>
-  <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="85" title="Dogecoing Logo" alt="Dogecoin Logo">
+  <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="67" title="Dogecoing Logo" alt="Dogecoin Logo">
 </p>
 
 #### Code: DOGE
@@ -144,18 +144,4 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/maticnetwork/contracts?style=social)
 #### Wikipedia:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/polygon/)
----
-## Dogecoin
-<p>
-  <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="85" title="Dogecoing Logo" alt="Dogecoin Logo">
-</p>
-
-#### Code: DOGE
-#### Languages: C++, Python, C
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/dogecoin/dogecoin?style=social)
-#### Website: [Dogecoin Official](https://dogecoin.com/)
-#### Repository: [Github](https://github.com/dogecoin/dogecoin)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/dogecoin/dogecoin?style=social)
-#### Wikipedia:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/dogecoin/)
 ---
