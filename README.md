@@ -89,7 +89,7 @@ Information about programming language used by Cryptocurrencies referred from [C
 ---
 ## Ripple
 <p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="75" title="Ripple Logo" alt="Ripple Logo">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="58" title="Ripple Logo" alt="Ripple Logo">
 </p>
 
 #### Code: XRP
