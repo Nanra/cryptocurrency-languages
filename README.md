@@ -101,3 +101,17 @@ Information about programming language used by Cryptocurrencies referred from [C
 #### Wikipedia: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
 ---
+## Polkadot
+<p>
+  <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
+</p>
+
+#### Code: DOT
+#### Language: Rust
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/paritytech/polkadot?style=social)
+#### Website: [Polkdaot Network Official](https://polkadot.network/)
+#### Repository: [Github](https://github.com/paritytech/polkadot)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/paritytech/polkadot?style=social)
+#### Wikipedia: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/polkadot-new/)
+---
