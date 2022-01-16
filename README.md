@@ -145,3 +145,17 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Wikipedia:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/polygon/)
 ---
+## Avalanche
+<p>
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" width="68" title="Avalanche Logo" alt="Avalanche Logo">
+</p>
+
+#### Code: AVAX
+#### Language: Go
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ava-labs/avalanchego?style=social)
+#### Website: [Avax Network Official](https://www.avax.network/)
+#### Repository: [Github](https://github.com/ava-labs/avalanchego)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social)
+#### Wikipedia:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/avalanche/)
+---
