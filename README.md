@@ -61,6 +61,20 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
 ---
+## Dogecoin
+<p>
+  <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="67" title="Dogecoing Logo" alt="Dogecoin Logo">
+</p>
+
+#### Code: DOGE
+#### Languages: C++, Python, C
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/dogecoin/dogecoin?style=social)
+#### Website: [Dogecoin Official](https://dogecoin.com/)
+#### Repository: [Github](https://github.com/dogecoin/dogecoin)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/dogecoin/dogecoin?style=social)
+#### Wikipedia:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
+#### Price: [Check Now](https://coinmarketcap.com/currencies/dogecoin/)
+---
 ## Solana
 <p>
   <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
@@ -102,20 +116,6 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ripple/rippled?style=social)
 #### Wikipedia: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
----
-## Dogecoin
-<p>
-  <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="67" title="Dogecoing Logo" alt="Dogecoin Logo">
-</p>
-
-#### Code: DOGE
-#### Languages: C++, Python, C
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/dogecoin/dogecoin?style=social)
-#### Website: [Dogecoin Official](https://dogecoin.com/)
-#### Repository: [Github](https://github.com/dogecoin/dogecoin)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/dogecoin/dogecoin?style=social)
-#### Wikipedia:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/dogecoin/)
 ---
 ## Polkadot
 <p>
