@@ -153,7 +153,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Code: AVAX
 #### Language: Go
 #### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ava-labs/avalanchego?style=social)
-#### Website: [Avax Network Official](https://www.avax.network/)
+#### Website: [Avax Network Official](https://www.avax.network/), [Avalabs Official](https://www.avalabs.org/)
 #### Repository: [Github](https://github.com/ava-labs/avalanchego)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social)
 #### Wikipedia:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
