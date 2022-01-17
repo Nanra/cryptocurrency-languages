@@ -117,6 +117,20 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Wikipedia: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
 ---
+## Zilliqa
+<p>
+  <img src="https://zil-dev.cdn.prismic.io/zil-dev/f3b97b97-e98b-4767-9b24-9474b9c20a83_Asset+1.svg" width="165" title="Terra Logo" alt="Terra Logo">
+</p>
+
+#### Code: ZIL
+#### Language: C++
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/Zilliqa/Zilliqa?style=social)
+#### Website: [Zilliqa Official](https://www.zilliqa.com/)
+#### Repository: [Github](https://github.com/Zilliqa/Zilliqa)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/Zilliqa/Zilliqa?style=social)
+#### Wikipedia:  [What is Zilliqa?](https://en.bitcoinwiki.org/wiki/Zilliqa)
+#### Price: [Check Now](https://coinmarketcap.com/currencies/zilliqa/)
+---
 ## Polkadot
 <p>
   <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
