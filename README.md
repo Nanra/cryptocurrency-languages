@@ -159,3 +159,17 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Wikipedia:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/avalanche/)
 ---
+## Terra
+<p>
+  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="165" title="Terra Logo" alt="Terra Logo">
+</p>
+
+#### Code: Luna
+#### Languages: Javascript, Go
+#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/terra-money/core?style=social)
+#### Website: [Terra Money Official](https://www.terra.money/)
+#### Repository: [Github](https://github.com/terra-money/core)
+#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/terra-money/core?style=social)
+#### Wikipedia:  [What is Terra Luna?](https://dyor-crypto.fandom.com/wiki/Terra_(LUNA))
+#### Price: [Check Now](https://coinmarketcap.com/currencies/terra-luna/)
+---
