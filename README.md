@@ -16,7 +16,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Bitcoin Official](https://bitcoin.org/)
 #### Repository: [Github](https://github.com/bitcoin)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/bitcoin/bitcoin?style=social)
-#### Wikipedia: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
+#### Wikipage: [What is Bitcoin ?](https://en.wikipedia.org/wiki/Bitcoin)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bitcoin/)
 ---
 ## Ethereum
@@ -30,7 +30,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Ethereum Official](https://ethereum.org/en/)
 #### Repository: [Github](https://github.com/ethereum)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ethereum/go-ethereum?style=social)
-#### Wikipedia:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
+#### Wikipage:  [What is Ethereum ?](https://en.wikipedia.org/wiki/Ethereum)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/ethereum/)
 ---
 ## Binance Coin
@@ -44,7 +44,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Binance Official](https://www.binance.org/en)
 #### Repository: [Github](https://github.com/binance-chain)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/binance-chain/bsc?style=social)
-#### Wikipedia:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
+#### Wikipage:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
 ## TRON
@@ -58,7 +58,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [TRON Official](https://tron.network/)
 #### Repository: [Github](https://github.com/tronprotocol/java-tron)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/tronprotocol/java-tron?style=social)
-#### Wikipedia:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
+#### Wikipage:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
 ---
 ## Dogecoin
@@ -72,7 +72,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Dogecoin Official](https://dogecoin.com/)
 #### Repository: [Github](https://github.com/dogecoin/dogecoin)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/dogecoin/dogecoin?style=social)
-#### Wikipedia:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
+#### Wikipage:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/dogecoin/)
 ---
 ## Solana
@@ -86,7 +86,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Solana Official](https://solana.com/)
 #### Repository: [Github](https://github.com/solana-labs)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/solana?style=social)
-#### Wikipedia:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
+#### Wikipage:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
 ---
 ## Cardano
@@ -100,7 +100,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Cardano Official](https://cardano.org/)
 #### Repository: [Cardano Updates](https://cardanoupdates.com/)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/cardano-sl?style=social)
-#### Wikipedia: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
+#### Wikipage: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
 ---
 ## Ripple
@@ -114,7 +114,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [XRP Ledger Official](https://xrpl.org/)
 #### Repository: [Github](https://github.com/ripple/rippled)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ripple/rippled?style=social)
-#### Wikipedia: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+#### Wikipage: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
 ---
 ## Zilliqa
@@ -128,7 +128,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Zilliqa Official](https://www.zilliqa.com/)
 #### Repository: [Github](https://github.com/Zilliqa/Zilliqa)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/Zilliqa/Zilliqa?style=social)
-#### Wikipedia:  [What is Zilliqa?](https://en.bitcoinwiki.org/wiki/Zilliqa)
+#### Wikipage:  [What is Zilliqa?](https://en.bitcoinwiki.org/wiki/Zilliqa)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/zilliqa/)
 ---
 ## Polkadot
@@ -142,7 +142,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Polkadot Network Official](https://polkadot.network/)
 #### Repository: [Github](https://github.com/paritytech/polkadot)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/paritytech/polkadot?style=social)
-#### Wikipedia: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
+#### Wikipage: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/polkadot-new/)
 ---
 ## Polygon
@@ -156,7 +156,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Polygon Technolgy Official](https://polygon.technology/)
 #### Repository: [Github](https://github.com/maticnetwork/contracts)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/maticnetwork/contracts?style=social)
-#### Wikipedia:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
+#### Wikipage:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
 #### Price: [Check Now](https://coinmarketcap.com/currencies/polygon/)
 ---
 ## Stellar
@@ -170,7 +170,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Stellar Network Official](https://www.stellar.org/)
 #### Repository: [Github](https://github.com/stellar/stellar-core)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/stellar/stellar-core?style=social)
-#### Wikipedia:  [What is Stellar Network?](https://en.wikipedia.org/wiki/Stellar_(payment_network))
+#### Wikipage:  [What is Stellar Network?](https://en.wikipedia.org/wiki/Stellar_(payment_network))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/stellar/)
 ---
 ## Avalanche
@@ -184,12 +184,12 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Avax Network Official](https://www.avax.network/), [Avalabs Official](https://www.avalabs.org/)
 #### Repository: [Github](https://github.com/ava-labs/avalanchego)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social)
-#### Wikipedia:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
+#### Wikipage:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/avalanche/)
 ---
 ## Terra
 <p>
-  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="135" title="Terra Logo" alt="Terra Logo">
+  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="125" title="Terra Logo" alt="Terra Logo">
 </p>
 
 #### Code: Luna
@@ -198,6 +198,6 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Website: [Terra Money Official](https://www.terra.money/)
 #### Repository: [Github](https://github.com/terra-money/core)
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/terra-money/core?style=social)
-#### Wikipedia:  [What is Terra Luna?](https://dyor-crypto.fandom.com/wiki/Terra_(LUNA))
+#### Wikipage:  [What is Terra Luna?](https://dyor-crypto.fandom.com/wiki/Terra_(LUNA))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/terra-luna/)
 ---
