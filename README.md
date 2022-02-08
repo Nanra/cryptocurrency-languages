@@ -147,7 +147,7 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 ---
 ## Polygon
 <p>
-  <img src="https://polygon.technology/wp-content/uploads/2021/12/Polygon-Primary-Color-Dark.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
+  <img src="https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
 </p>
 
 #### Code: MATIC
