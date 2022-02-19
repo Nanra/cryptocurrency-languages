@@ -613,7 +613,7 @@ Information about programming language used by Cryptocurrencies referred from of
     <tbody>
         <tr>
             <td rowspan=8><p>
-  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="125" title="Terra Logo" alt="Terra Logo">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" width="58" title="Avalanche Logo" alt="Avalanche Logo">
 </p></td>
             <td>Code</td>
             <td>AVAX</td>
@@ -642,7 +642,7 @@ Information about programming language used by Cryptocurrencies referred from of
         </tr>
         <tr>
             <td>Wikipage</td>
-            <td><a href="https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform)"/> What is Terra Luna?</td>
+            <td><a href="https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform)"/> What is Avalanche ?</td>
         </tr>
         <tr>
             <td>Price</td>
@@ -691,7 +691,7 @@ Information about programming language used by Cryptocurrencies referred from of
         </tr>
         <tr>
             <td>Wikipage</td>
-            <td><a href="https://dyor-crypto.fandom.com/wiki/Terra_(LUNA)"/> What is Terra Luna?</td>
+            <td><a href="https://dyor-crypto.fandom.com/wiki/Terra_(LUNA)"/> What is Terra Luna ?</td>
         </tr>
         <tr>
             <td>Price</td>
