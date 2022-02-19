@@ -562,6 +562,56 @@ Information about programming language used by Cryptocurrencies referred from of
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/stellar/stellar-core?style=social)
 #### Wikipage:  [What is Stellar Network?](https://en.wikipedia.org/wiki/Stellar_(payment_network))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/stellar/)
+
+<!-- Stellar -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Stellar</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+  <img src="https://assets-global.website-files.com/5deac75ecad2173c2ccccbc7/5dec8960504967fd31147f62_Stellar_lockup_black_RGB.svg" width="145" title="Stellar Logo" alt="Stellar Logo">
+              
+</p></td>
+            <td>Code</td>
+            <td>XLM</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>C, C++<td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/stellar/stellar-core?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://www.stellar.org/"/> Stellar Network Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/stellar/stellar-core"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/stellar/stellar-core?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Stellar_(payment_network)"/> What is Stellar Network ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/stellar/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 ## Avalanche
 <p>
