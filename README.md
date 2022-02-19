@@ -206,8 +206,8 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 <table>
     <thead>
         <tr>
-            <th>Logo</th>
-            <th colspan=2>Information</th>
+            <th>Terra</th>
+            <th colspan=2>More Information</th>
         </tr>
     </thead>
     <tbody>
