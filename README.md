@@ -201,3 +201,50 @@ Note: The Cryptocurrency list is not ordered by star or market cap, just random 
 #### Wikipage:  [What is Terra Luna?](https://dyor-crypto.fandom.com/wiki/Terra_(LUNA))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/terra-luna/)
 ---
+
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Logo</th>
+            <th colspan=2>Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="125" title="Terra Logo" alt="Terra Logo">
+</p></td>
+            <td>Code</td>
+            <td>Luna</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>Javascript, Go</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/terra-money/core?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://www.terra.money/"/> Terra Money Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/terra-money/core"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/terra-money/core?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://dyor-crypto.fandom.com/wiki/Terra_(LUNA)"/> What is Terra Luna?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/terra-luna/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
