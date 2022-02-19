@@ -264,7 +264,7 @@ Information about programming language used by Cryptocurrencies referred from of
     <tbody>
         <tr>
             <td rowspan=8><p>
-  <img bg-color="black" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
+  <img style="background-color:black;" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
 </p></td>
             <td>Code</td>
             <td>SOL</td>
