@@ -105,22 +105,54 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-
-
-
-## Binance Coin
-<p>
+<!-- Binance -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Binance</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="62" title="Binance Logo" alt="Binance Logo">
-</p>
+</p></td>
+            <td>Code</td>
+            <td>BNB</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>Go, Solidity, Typescript</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/binance-chain/bsc?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://www.binance.org/en"/> Binance Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/binance-chain"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/binance-chain/bsc?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Binance"/> What is Binance ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/bnb/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Code: BNB
-#### Languages: Go, Solidity, Typescript
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/binance-chain/bsc?style=social)
-#### Website: [Binance Official](https://www.binance.org/en)
-#### Repository: [Github](https://github.com/binance-chain)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/binance-chain/bsc?style=social)
-#### Wikipage:  [What is Binance ?](https://en.wikipedia.org/wiki/Binance)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/bnb/)
 ---
 ## TRON
 <p>
