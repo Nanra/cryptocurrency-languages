@@ -449,6 +449,7 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
+
 <!-- Polkadot -->
 <br>
 <table>
@@ -498,19 +499,55 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Polygon
-<p>
-  <img src="https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
-</p>
 
-#### Code: MATIC
-#### Languages: Javascript, Solidity
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/maticnetwork/contracts?style=social)
-#### Website: [Polygon Technolgy Official](https://polygon.technology/)
-#### Repository: [Github](https://github.com/maticnetwork/contracts)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/maticnetwork/contracts?style=social)
-#### Wikipage:  [What is Polygon ?](https://crypto-wikipedia.com/what-is-polygon-matic/)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/polygon/)
+<!-- Polygon -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Polygon</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+              <img src="https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
+</p></td>
+            <td>Code</td>
+            <td>MATIC</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>Javascript, Solidity<td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/maticnetwork/contracts?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://polygon.technology/"/> Polygon Network Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/maticnetwork/contracts"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/maticnetwork/contracts?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://crypto-wikipedia.com/what-is-polygon-matic/"/> What is Polygon ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/polygon/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 ## Stellar
 <p>
