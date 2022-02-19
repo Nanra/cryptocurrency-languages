@@ -8,10 +8,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Bitcoin -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Bitcoin</th>
+            <th style="width: 35%;">Bitcoin</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -58,10 +58,10 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Ethereum -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Ethereum</th>
+            <th style="width: 35%;">Ethereum</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -107,10 +107,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Binance -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Binance</th>
+            <th style="width: 35%;">Binance</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -156,10 +156,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- TRON -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>TRON</th>
+            <th style="width: 35%;">TRON</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -205,10 +205,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Dogecoin -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Dogecoin</th>
+            <th style="width: 35%;">Dogecoin</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -254,10 +254,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Solana -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Solana</th>
+            <th style="width: 35%;">Solana</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -303,10 +303,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Cardano -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Cardano</th>
+            <th style="width: 35%;">Cardano</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -353,10 +353,10 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Ripple -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Ripple</th>
+            <th style="width: 35%;">Ripple</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -402,10 +402,10 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Zilliqa -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Zilliqa</th>
+            <th style="width: 35%;">Zilliqa</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -449,13 +449,12 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-
 <!-- Polkadot -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Polkadot</th>
+            <th style="width: 35%;">Polkadot</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -502,10 +501,10 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Polygon -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Polygon</th>
+            <th style="width: 35%;">Polygon</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -552,10 +551,10 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Stellar -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Stellar</th>
+            <th style="width: 35%;">Stellar</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -603,10 +602,10 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Avalanche -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
-            <th>Avalanche</th>
+            <th style="width: 35%;">Avalanche</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
@@ -654,7 +653,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Terra -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
             <th>Terra</th>
