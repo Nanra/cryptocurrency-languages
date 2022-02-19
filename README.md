@@ -301,20 +301,6 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Cardano
-<p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="80" title="Cardano Logo" alt="Cardano Logo">
-</p>
-
-#### Code: ADA
-#### Languages: Haskell, Javascript, Scala
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/input-output-hk/cardano-sl?style=social)
-#### Website: [Cardano Official](https://cardano.org/)
-#### Repository: [Cardano Updates](https://cardanoupdates.com/)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/cardano-sl?style=social)
-#### Wikipage: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
-
 <!-- Cardano -->
 <br>
 <table>
@@ -346,37 +332,73 @@ Information about programming language used by Cryptocurrencies referred from of
         </tr>
         <tr>
             <td>Repository</td>
-            <td><a href="https://github.com/solana-labs"/> Github</td>
+            <td><a href="https://cardano.org/"/> Github</td>
         </tr>
         <tr>
             <td>Repo Star</td>
-            <td><img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"></td>
+            <td><img src="https://img.shields.io/github/stars/input-output-hk/cardano-sl?style=social"></td>
         </tr>
         <tr>
             <td>Wikipage</td>
-            <td><a href="https://en.wikipedia.org/wiki/Solana_(blockchain_platform)"/> What is Solana ?</td>
+            <td><a href="https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)"/> What is Cardano ?</td>
         </tr>
         <tr>
             <td>Price</td>
-            <td><a href="https://coinmarketcap.com/currencies/solana/"/> Check Now</td>
+            <td><a href="https://coinmarketcap.com/currencies/cardano/"/> Check Now</td>
         </tr>
     </tbody>
 </table>
 
 ---
-## Ripple
-<p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="58" title="Ripple Logo" alt="Ripple Logo">
-</p>
 
-#### Code: XRP
-#### Languages: C++, C, Javascript
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ripple/rippled?style=social)
-#### Website: [XRP Ledger Official](https://xrpl.org/)
-#### Repository: [Github](https://github.com/ripple/rippled)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ripple/rippled?style=social)
-#### Wikipage: [What is Ripple ?](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/xrp/)
+<!-- Ripple -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Ripple</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="58" title="Ripple Logo" alt="Ripple Logo">
+</p></td>
+            <td>Code</td>
+            <td>XRP</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>C++, C, Javascript</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/ripple/rippled?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://xrpl.org/"/> XRP Ledger Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/ripple/rippled"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/ripple/rippled?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Ripple_(payment_protocol)"/> What is Ripple ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/xrp/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 ## Zilliqa
 <p>
