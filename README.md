@@ -252,20 +252,6 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Solana
-<p>
-  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
-</p>
-
-#### Code: SOL
-#### Languages: Rust, Typescript
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/solana-labs/solana?style=social)
-#### Website: [Solana Official](https://solana.com/)
-#### Repository: [Github](https://github.com/solana-labs)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/solana?style=social)
-#### Wikipage:  [What is Solana ?](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/solana/)
-
 <!-- Solana -->
 <br>
 <table>
@@ -278,7 +264,7 @@ Information about programming language used by Cryptocurrencies referred from of
     <tbody>
         <tr>
             <td rowspan=8><p>
-  <img src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
+  <img bg-color="black" src="https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdark-horizontal.c3a5eb36.svg&w=384&q=75" width="180" title="Solana Logo" alt="Solana Logo">
 </p></td>
             <td>Code</td>
             <td>SOL</td>
