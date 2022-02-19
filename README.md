@@ -203,19 +203,54 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Dogecoin
-<p>
+<!-- Dogecoin -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Dogecoin</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
   <img src="https://dogecoin.com/assets/img/dogecoin-300.png" width="67" title="Dogecoing Logo" alt="Dogecoin Logo">
-</p>
+</p></td>
+            <td>Code</td>
+            <td>DOGE</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>C++, Python, C</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/dogecoin/dogecoin?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://dogecoin.com/"/> Dogecoin Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/dogecoin/dogecoin"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/dogecoin/dogecoin?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Dogecoin"/> What is Dogecoin ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/dogecoin/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Code: DOGE
-#### Languages: C++, Python, C
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/dogecoin/dogecoin?style=social)
-#### Website: [Dogecoin Official](https://dogecoin.com/)
-#### Repository: [Github](https://github.com/dogecoin/dogecoin)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/dogecoin/dogecoin?style=social)
-#### Wikipage:  [What is Dogecoin ?](https://en.wikipedia.org/wiki/Dogecoin)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/dogecoin/)
 ---
 ## Solana
 <p>
