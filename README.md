@@ -314,6 +314,55 @@ Information about programming language used by Cryptocurrencies referred from of
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/input-output-hk/cardano-sl?style=social)
 #### Wikipage: [What is Cardano ?](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/cardano/)
+
+<!-- Cardano -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Cardano</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="80" title="Cardano Logo" alt="Cardano Logo">
+</p></td>
+            <td>Code</td>
+            <td>ADA</td>
+        </tr>
+        <tr>
+            <td>Languages</td>
+            <td>Haskell, Javascript, Scala</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/input-output-hk/cardano-sl?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://cardano.org/"/> Cardano Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/solana-labs"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Solana_(blockchain_platform)"/> What is Solana ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/solana/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 ## Ripple
 <p>
