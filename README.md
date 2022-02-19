@@ -549,19 +549,6 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Stellar
-<p>
-  <img src="https://assets-global.website-files.com/5deac75ecad2173c2ccccbc7/5dec8960504967fd31147f62_Stellar_lockup_black_RGB.svg" width="145" title="Stellar Logo" alt="Stellar Logo">
-</p>
-
-#### Code: XLM
-#### Languages: C, C++
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/stellar/stellar-core?style=social)
-#### Website: [Stellar Network Official](https://www.stellar.org/)
-#### Repository: [Github](https://github.com/stellar/stellar-core)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/stellar/stellar-core?style=social)
-#### Wikipage:  [What is Stellar Network?](https://en.wikipedia.org/wiki/Stellar_(payment_network))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/stellar/)
 
 <!-- Stellar -->
 <br>
@@ -626,6 +613,57 @@ Information about programming language used by Cryptocurrencies referred from of
 #### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social)
 #### Wikipage:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
 #### Price: [Check Now](https://coinmarketcap.com/currencies/avalanche/)
+
+<!-- Avalanche -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Avalanche</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+  <img src="https://assets.website-files.com/611153e7af981472d8da199c/61794f2b6b1c7a1cb9444489_symbol-terra-blue.svg" width="125" title="Terra Logo" alt="Terra Logo">
+</p></td>
+            <td>Code</td>
+            <td>AVAX</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>Go</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/ava-labs/avalanchego?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td>
+            <a href="https://www.avax.network/"/> Ava Network Official, <a href="https://www.avalabs.org/"/> Avalabs Official 
+            </td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/ava-labs/avalanchego"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/ava-labs/avalanchego?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform)"/> What is Terra Luna?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/avalanche/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 <!-- Terra -->
 <br>
