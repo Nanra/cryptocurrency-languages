@@ -600,19 +600,6 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Avalanche
-<p>
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" width="58" title="Avalanche Logo" alt="Avalanche Logo">
-</p>
-
-#### Code: AVAX
-#### Language: Go
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/ava-labs/avalanchego?style=social)
-#### Website: [Avax Network Official](https://www.avax.network/), [Avalabs Official](https://www.avalabs.org/)
-#### Repository: [Github](https://github.com/ava-labs/avalanchego)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social)
-#### Wikipage:  [What is Avalanche?](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/avalanche/)
 
 <!-- Avalanche -->
 <br>
