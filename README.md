@@ -154,19 +154,54 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## TRON
-<p>
+<!-- TRON -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>TRON</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" width="63" title="Tron Logo" alt="Tron Logo">
-</p>
+</p></td>
+            <td>Code</td>
+            <td>TRX</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/tronprotocol/java-tron?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://tron.network/"/> TRON Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/tronprotocol/java-tron"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/tronprotocol/java-tron?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Tron_(cryptocurrency)"/> What is TRON ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/tron/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Code: TRX
-#### Language: Java
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/tronprotocol/java-tron?style=social)
-#### Website: [TRON Official](https://tron.network/)
-#### Repository: [Github](https://github.com/tronprotocol/java-tron)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/tronprotocol/java-tron?style=social)
-#### Wikipage:  [What is TRON ?](https://en.wikipedia.org/wiki/Tron_(cryptocurrency))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/tron/)
 ---
 ## Dogecoin
 <p>
