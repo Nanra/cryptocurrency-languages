@@ -400,19 +400,54 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Zilliqa
-<p>
-  <img src="https://zil-dev.cdn.prismic.io/zil-dev/f3b97b97-e98b-4767-9b24-9474b9c20a83_Asset+1.svg" width="165" title="Terra Logo" alt="Terra Logo">
-</p>
+<!-- Zilliqa -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Zilliqa</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+            <img src="https://zil-dev.cdn.prismic.io/zil-dev/f3b97b97-e98b-4767-9b24-9474b9c20a83_Asset+1.svg" width="165" title="Zilliqa Logo" alt="Zilliqa Logo">
+</p></td>
+            <td>Code</td>
+            <td>ZIL</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>C++</td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/Zilliqa/Zilliqa?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://www.zilliqa.com/"/> Zilliqa Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/Zilliqa/Zilliqa"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/Zilliqa/Zilliqa?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.bitcoinwiki.org/wiki/Zilliqa"/> What is Zilliqa ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/zilliqa/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Code: ZIL
-#### Language: C++
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/Zilliqa/Zilliqa?style=social)
-#### Website: [Zilliqa Official](https://www.zilliqa.com/)
-#### Repository: [Github](https://github.com/Zilliqa/Zilliqa)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/Zilliqa/Zilliqa?style=social)
-#### Wikipage:  [What is Zilliqa?](https://en.bitcoinwiki.org/wiki/Zilliqa)
-#### Price: [Check Now](https://coinmarketcap.com/currencies/zilliqa/)
 ---
 ## Polkadot
 <p>
