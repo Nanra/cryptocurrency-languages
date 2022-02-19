@@ -449,19 +449,54 @@ Information about programming language used by Cryptocurrencies referred from of
 </table>
 
 ---
-## Polkadot
-<p>
-  <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
-</p>
+<!-- Polkadot -->
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Polkadot</th>
+            <th colspan=2>More Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8><p>
+            <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
+</p></td>
+            <td>Code</td>
+            <td>DOT</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>Rust<td>
+        </tr>
+        <tr>
+            <td>Top Language</td>
+            <td><img src="https://img.shields.io/github/languages/top/paritytech/polkadot?style=social"></td>
+        </tr>
+        <tr>
+            <td>Website</td>
+            <td><a href="https://polkadot.network/"/> Polkadot Network Official</td>
+        </tr>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/Zilliqa/Zilliqa"/> Github</td>
+        </tr>
+        <tr>
+            <td>Repo Star</td>
+            <td><img src="https://img.shields.io/github/stars/paritytech/polkadot?style=social"></td>
+        </tr>
+        <tr>
+            <td>Wikipage</td>
+            <td><a href="https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency)"/> What is Polkadot ?</td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><a href="https://coinmarketcap.com/currencies/polkadot-new/"/> Check Now</td>
+        </tr>
+    </tbody>
+</table>
 
-#### Code: DOT
-#### Language: Rust
-#### Top Language: ![GitHub top language](https://img.shields.io/github/languages/top/paritytech/polkadot?style=social)
-#### Website: [Polkadot Network Official](https://polkadot.network/)
-#### Repository: [Github](https://github.com/paritytech/polkadot)
-#### Repo Star: ![GitHub Repo stars](https://img.shields.io/github/stars/paritytech/polkadot?style=social)
-#### Wikipage: [What is Polkadot ?](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
-#### Price: [Check Now](https://coinmarketcap.com/currencies/polkadot-new/)
 ---
 ## Polygon
 <p>
