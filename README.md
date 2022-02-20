@@ -7,13 +7,6 @@ Information about programming language used by Cryptocurrencies referred from of
 
 ---
 
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 <!-- Bitcoin -->
 <br>
 <table>
