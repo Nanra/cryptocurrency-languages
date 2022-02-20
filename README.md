@@ -6,9 +6,16 @@ Information about programming language used by Cryptocurrencies referred from of
 ***Note: The Cryptocurrency list is not ordered by star or market cap, just random order.***
 
 ---
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <!-- Bitcoin -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Bitcoin</th>
@@ -58,7 +65,7 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Ethereum -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Ethereum</th>
@@ -107,7 +114,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Binance -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Binance</th>
@@ -156,7 +163,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- TRON -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">TRON</th>
@@ -205,7 +212,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Dogecoin -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Dogecoin</th>
@@ -254,7 +261,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Solana -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Solana</th>
@@ -303,7 +310,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Cardano -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Cardano</th>
@@ -353,7 +360,7 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Ripple -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Ripple</th>
@@ -402,7 +409,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Zilliqa -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Zilliqa</th>
@@ -451,7 +458,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Polkadot -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th>Polkadot</th>
@@ -501,7 +508,7 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Polygon -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th>Polygon</th>
@@ -551,7 +558,7 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Stellar -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th>Stellar</th>
@@ -601,7 +608,7 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <!-- Avalanche -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th style="width: 35%;">Avalanche</th>
@@ -652,7 +659,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ---
 <!-- Terra -->
 <br>
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
             <th>Terra</th>
