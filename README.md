@@ -9,17 +9,6 @@ Information about programming language used by Cryptocurrencies referred from of
 
 <html>
 
-<head>
-<style>
-    table{
-        width: 100%;
-    }
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-
 <!-- Bitcoin -->
 <br>
 <table>
@@ -68,3 +57,10 @@ p    {color: red;}
     </tbody>
 </table>
 </html>
+
+<style>
+
+table th:nth-of-type(2) {
+    width: 100%;
+}
+</style>
