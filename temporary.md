@@ -1,7 +1,7 @@
 
 <!-- Bitcoin -->
 <br>
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
             <th style="width: 60%;">Bitcoin</th>
