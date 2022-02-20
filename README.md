@@ -454,21 +454,21 @@ Information about programming language used by Cryptocurrencies referred from of
 <table style="width: 100%">
     <thead>
         <tr>
-            <th style="width: 35%;">Polkadot</th>
+            <th>Polkadot</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=8><p>
-            <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
+  <img src="https://polkadot.network/assets/img/logo-polkadot.svg?v=e11bc024ad" width="195" title="Polkadot Logo" alt="Polkadot Logo">
 </p></td>
             <td>Code</td>
             <td>DOT</td>
         </tr>
         <tr>
             <td>Language</td>
-            <td>Rust<td>
+            <td>Rust</td>
         </tr>
         <tr>
             <td>Top Language</td>
