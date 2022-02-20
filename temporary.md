@@ -1,18 +1,20 @@
 
 <!-- Bitcoin -->
 <br>
+## Bitcoin
+
+|Logo|
+|:-|
+|<img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="125" title="Bitcoin Logo" alt="Bitcoin Logo">|
+
 <table style="width: 100%">
     <thead>
         <tr>
-            <th style="width: 60%;">Bitcoin</th>
-            <th style="width: 55%;" colspan=2>More Information</th>
+            <th style="width: 7%;" colspan=2>More Information</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8><p>
-  <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="125" title="Bitcoin Logo" alt="Bitcoin Logo">
-</p></td>
             <td>Code</td>
             <td>BTC</td>
         </tr>
