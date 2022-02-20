@@ -504,21 +504,21 @@ Information about programming language used by Cryptocurrencies referred from of
 <table style="width: 100%">
     <thead>
         <tr>
-            <th style="width: 35%;">Polygon</th>
+            <th>Polygon</th>
             <th colspan=2>More Information</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=8><p>
-              <img src="https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
+  <img src="https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg" width="190" title="Polygon Logo" alt="Polygon Logo">
 </p></td>
             <td>Code</td>
             <td>MATIC</td>
         </tr>
         <tr>
             <td>Languages</td>
-            <td>Javascript, Solidity<td>
+            <td>Javascript, Solidity</td>
         </tr>
         <tr>
             <td>Top Language</td>
