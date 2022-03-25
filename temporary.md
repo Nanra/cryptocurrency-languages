@@ -17,7 +17,7 @@ Information about programming language used by Cryptocurrencies referred from of
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8 style=text-align:center;><p>
+            <td rowspan=8><p>
   <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="125" title="Bitcoin Logo" alt="Bitcoin Logo">
 </p></td>
             <td>Code</td>
@@ -53,9 +53,9 @@ Information about programming language used by Cryptocurrencies referred from of
         </tr> <!-- Spacer -->
         <tr> <td colspan=4> </td> </tr>
         <tr> <!-- Ethereum -->
-        <td style=text-align:center;> <b> Ethereum </b> </td>
-        <td colspan=2 style=text-align:center;> <b> More Information </b></td>
-        </tr> <tr> <td rowspan=8 style=text-align:center;><p>
+        <td> <b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEthereum </b> </td>
+        <td colspan=2 style='text-align:center; vertical-align:middle'> <b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp More Information </b></td>
+        </tr> <tr> <td rowspan=8><p> &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp
   <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" width="50" title="Ethereum Logo" alt="Ethereum Logo">
 </p></td> <td> Code </td> <td> ETH </td> </tr> <tr>
             <td>Languages</td>
@@ -86,56 +86,6 @@ Information about programming language used by Cryptocurrencies referred from of
             <td><a href="https://coinmarketcap.com/currencies/ethereum/"/> Check Now</td>
         </tr>
     </tbody>    
-</table>
-
----
-
-<!-- Ethereum -->
-<br>
-<table>
-    <thead>
-        <tr>
-            <th>Ethereum</th>
-            <th colspan=2>More Information</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=8><p>
-  <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" width="50" title="Ethereum Logo" alt="Ethereum Logo">
-</p></td>
-            <td>Code</td>
-            <td>ETH</td>
-        </tr>
-        <tr>
-            <td>Languages</td>
-            <td>Go, C++, Solidity, Javascript</td>
-        </tr>
-        <tr>
-            <td>Top Language</td>
-            <td><img src="https://img.shields.io/github/languages/top/ethereum/go-ethereum?style=social"></td>
-        </tr>
-        <tr>
-            <td>Website</td>
-            <td><a href="https://ethereum.org/en/"/> Ethereum Official</td>
-        </tr>
-        <tr>
-            <td>Repository</td>
-            <td><a href="https://github.com/ethereum"/> Github</td>
-        </tr>
-        <tr>
-            <td>Repo Star</td>
-            <td><img src="https://img.shields.io/github/stars/ethereum/go-ethereum?style=social"></td>
-        </tr>
-        <tr>
-            <td>Wikipage</td>
-            <td><a href="https://en.wikipedia.org/wiki/Ethereum"/> What is Ethereum ?</td>
-        </tr>
-        <tr>
-            <td>Price</td>
-            <td><a href="https://coinmarketcap.com/currencies/ethereum/"/> Check Now</td>
-        </tr>
-    </tbody>
 </table>
 
 ---
