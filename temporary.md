@@ -17,7 +17,7 @@ Information about programming language used by Cryptocurrencies referred from of
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8><p>
+            <td rowspan=8 style=text-align:center;><p>
   <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="125" title="Bitcoin Logo" alt="Bitcoin Logo">
 </p></td>
             <td>Code</td>
@@ -50,11 +50,12 @@ Information about programming language used by Cryptocurrencies referred from of
         <tr>
             <td>Price</td>
             <td><a href="https://coinmarketcap.com/currencies/bitcoin/"/> Check Now</td>
-        </tr> <tr> <td colspan=4> </td> </tr>
-        <tr>
-        <td> <b> Ethereum </b> </td>
-        <td colspan=2> <b> More Information </b></td>
-        </tr> <tr> <td rowspan=8><p>
+        </tr> <!-- Spacer -->
+        <tr> <td colspan=4> </td> </tr>
+        <tr> <!-- Ethereum -->
+        <td style=text-align:center;> <b> Ethereum </b> </td>
+        <td colspan=2 style=text-align:center;> <b> More Information </b></td>
+        </tr> <tr> <td rowspan=8 style=text-align:center;><p>
   <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" width="50" title="Ethereum Logo" alt="Ethereum Logo">
 </p></td> <td> Code </td> <td> ETH </td> </tr> <tr>
             <td>Languages</td>
