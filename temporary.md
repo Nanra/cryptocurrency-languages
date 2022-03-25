@@ -6,15 +6,7 @@ Information about programming language used by Cryptocurrencies referred from of
 ***Note: The Cryptocurrency list is not ordered by star or market cap, just random order.***
 
 ---
-
 <!-- Bitcoin -->
-
-## Bitcoin
-
-|Logo|
-|:-:   |
-| <img src="https://bitcoin.org/img/icons/logotop.svg?1641218872" width="125" title="Bitcoin Logo" alt="Bitcoin Logo">  |
-
 <br>
 <table>
     <thead>
@@ -58,30 +50,14 @@ Information about programming language used by Cryptocurrencies referred from of
         <tr>
             <td>Price</td>
             <td><a href="https://coinmarketcap.com/currencies/bitcoin/"/> Check Now</td>
-        </tr>
-    </tbody>
-</table>
-
----
-
-<!-- Ethereum -->
-<br>
-<table>
-    <thead>
-        <tr>
-            <th>Ethereum</th>
-            <th colspan=2>More Information</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=8><p>
+        </tr> <!-- Spacer -->
+        <tr> <td colspan=4> </td> </tr>
+        <tr> <!-- Ethereum -->
+        <td> <b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEthereum </b> </td>
+        <td colspan=2 style='text-align:center; vertical-align:middle'> <b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp More Information </b></td>
+        </tr> <tr> <td rowspan=8><p> &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp
   <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp" width="50" title="Ethereum Logo" alt="Ethereum Logo">
-</p></td>
-            <td>Code</td>
-            <td>ETH</td>
-        </tr>
-        <tr>
+</p></td> <td> Code </td> <td> ETH </td> </tr> <tr>
             <td>Languages</td>
             <td>Go, C++, Solidity, Javascript</td>
         </tr>
@@ -109,7 +85,7 @@ Information about programming language used by Cryptocurrencies referred from of
             <td>Price</td>
             <td><a href="https://coinmarketcap.com/currencies/ethereum/"/> Check Now</td>
         </tr>
-    </tbody>
+    </tbody>    
 </table>
 
 ---
@@ -705,18 +681,3 @@ Information about programming language used by Cryptocurrencies referred from of
         </tr>
     </tbody>
 </table>
-
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
